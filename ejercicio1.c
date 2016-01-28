@@ -22,8 +22,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void Usage(char prog_name[]);
-
 void Get_args(
       char*    argv[]        /* in  */,
       int*     bin_count_p   /* out */,
